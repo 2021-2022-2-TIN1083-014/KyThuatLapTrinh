@@ -1,0 +1,43 @@
+.giacuSanPham{
+    text-decoration: line-through;
+    font-size: 12px;
+    
+    border: 2px;
+}
+.giaSanPham{
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+.sanpham{
+    border: 1px solid #aaa;
+    width: 250px;
+    
+    color: antiquewhite;
+}
+.tensanpham{
+    font-size: 16px;
+    color: #000;
+    text-align: justify;
+}
+.sanpham .content{
+    padding: 5px 10px;
+}
+.sanpham .top-content img{
+    max-width: 100%;
+    
+    width: 230px;
+    height: 230px;
+    border: 10px;
+    box-sizing: border-box;
+    margin-left: 10px;
+} 
+button{
+
+
+    padding: 10px;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px 20px 0 30%;
+
+}
