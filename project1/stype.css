@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+    color: purple;
+    padding: 20px;
+    border: 5px solid purple;
+    background-color: antiquewhite;
+}
+#anh{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+    color: purple;
+    float:right;
+}
+body{
+    
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: purple;
+   
+}
+table{
+    
+    position: relative;
+    border: 5px solid purple;
+    text-align: center;
+    
+}
+
+
+
+
+ 
+
+
+

@@ -157,7 +157,7 @@ void ChucNang(List &l) {
              xoasau(l,q);
 		}
 		
-		if (n == 0) 
+		if (n == 0)
 		{
 			break;
 		}
@@ -176,4 +176,3 @@ int main() {
 	system("pause");
 	return 0;
 }
-
